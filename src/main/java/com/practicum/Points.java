@@ -1,4 +1,4 @@
-package ru.yandex.practicum;
+package com.practicum;
 
 public class Points {
 

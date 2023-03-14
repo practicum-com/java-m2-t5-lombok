@@ -1,4 +1,4 @@
-package ru.yandex.practicum;
+package com.practicum;
 
 import lombok.Getter;
 import lombok.Setter;
